@@ -1,8 +1,3 @@
--- Proj2.hs
--- Author: BINZHEN WEI(StudentID: 1575618)
-
-
-
 
 -- Summay of file purpose
 -- This file implements a ship guessing strategy 
