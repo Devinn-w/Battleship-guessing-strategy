@@ -1,8 +1,4 @@
---  File     : Main.hs
---  Author   : Peter Schachte
---  Purpose  : Test program for proj2 project to be used in Ed
-
-
+-- Test
 module Main where
 
 import System.Exit
