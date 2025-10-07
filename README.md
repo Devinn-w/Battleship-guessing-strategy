@@ -38,7 +38,7 @@ The algorithm attempts to **locate three hidden ships** by making strategic gues
 ---
 
 
-## 🛠️ Requirements
+##  Requirements
 
 - [GHC (Glasgow Haskell Compiler)](https://www.haskell.org/ghc/)  
 - [Cabal](https://www.haskell.org/cabal/) or GHCi for interactive testing
